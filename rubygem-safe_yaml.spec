@@ -4,7 +4,7 @@
 #
 Name     : rubygem-safe_yaml
 Version  : 1.0.4
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/safe_yaml-1.0.4.gem
 Source0  : https://rubygems.org/downloads/safe_yaml-1.0.4.gem
 Summary  : No detailed summary available
